@@ -8,4 +8,6 @@ chapter 05 상속
 
 chapter 06 패키지 개념과 자바 기본 패키지
 
+chapter 07 제네릭과 컬렉션
+
 chapter 08 입출력 스트림과 파일 입출력
